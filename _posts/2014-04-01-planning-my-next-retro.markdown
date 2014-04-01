@@ -24,6 +24,10 @@ categories: agile retrospectives
 
 **Check-in exercise**:
 Hapiness radar. As seen on [Agile Tips][hapiness-radar].
+  + People and Interactions
+  + Processes and Practices
+  + Tools and Technology
+  + Scope and Schedule
 Standard Follow Up on previous Retrospective Actions
 
 **Gathering data**:
